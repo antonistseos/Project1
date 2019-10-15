@@ -1,0 +1,85 @@
+body {
+	font-family:sanserif;
+	margin:0;
+	padding:0;
+	background-image: url(../images/background.jpg);
+	background-size: 1600px;
+}
+
+.photo img{
+	position: absolute;
+	top: 20%;
+	left: 43%;
+	border-radius: 30%;
+}
+
+.title img{
+	position: absolute;
+	top: 2%;
+	left: 1%;
+}
+
+.facebook img{
+	position: absolute;
+	top: 30%;
+	left: 30%;
+}
+
+.uth img{
+	position: absolute;
+	top: 30%;
+	left: 48%;
+	border-radius: 50%;
+}
+
+.instagram img{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+}
+
+.github img{
+	position: absolute;
+	top: 30%;
+	left: 70%;
+}
+
+.laptop img{
+	position: absolute;
+	top: 2%;
+	left: 35%;
+}
+
+.list-about {
+	position:absolute;
+	font-family:sanserif;
+	top: 20%;
+	left: 30%;
+}
+
+.findme {
+	position:absolute;
+	font-family:sanserif;
+	top: 20%;
+	color:pink;
+	left: 30%;
+}
+
+.information {
+	position:absolute;
+	font-family:sanserif;
+	top: 60%;
+	left: 47%;
+}
+
+.me img{
+	position: absolute;
+	top: 2%;
+	left: 50%;
+}
+
+.smartphone img{
+	position: absolute;
+	top: 2%;
+	left: 65%;
+}
